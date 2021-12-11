@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,IAAI,CAAC;EACH,WAAW,EAAE,iCAAiC;EAC9C,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;EAChB,KAAK,EAAE,IAAI;CACZ",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/_mdmd.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
