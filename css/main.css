@@ -28,4 +28,9 @@ body {
   text-decoration: none;
   cursor: pointer;
 }
+
+.container {
+  padding: 0 15px;
+  background-color: 1;
+}
 /*# sourceMappingURL=main.css.map */
