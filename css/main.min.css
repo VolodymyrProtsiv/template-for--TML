@@ -1,2 +1,2 @@
-h1,h2,h3,h4,h5,p,ul{margin:0;padding:0}img{display:block;width:100%;height:auto}body{position:relative;font-family:"Roboto", sans-serif}.list{list-style:none}.link{text-decoration:none;cursor:pointer}.container{padding:0 15px;background-color:1}
+h1,h2,h3,h4,h5,p,ul{margin:0;padding:0}img{display:block;width:100%;height:auto}body{position:relative;font-family:"Roboto", sans-serif}.list{list-style:none}.link{text-decoration:none;cursor:pointer}.container{padding:0 15px;width:1200px;margin:0 auto;background-color:1}.section{background-color:green}
 /*# sourceMappingURL=main.min.css.map */

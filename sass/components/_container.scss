@@ -1,4 +1,10 @@
 .container{
 padding: 0 15px;
+width: 1200px;
+margin: 0 auto;
 background-color: alpha($color: #000000);
+}
+
+.section{
+    background-color: green;
 }
