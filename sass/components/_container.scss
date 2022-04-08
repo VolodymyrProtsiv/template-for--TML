@@ -1,10 +1,25 @@
 .container{
 padding: 0 15px;
-width: 1200px;
 margin: 0 auto;
-background-color: alpha($color: #000000);
+background-color: white;
+
+    // min-width-480
+    @media screen and(min-width:480px) {
+        width: 480px;
+        
+    }
+
+    // min-width-780
+    @media screen and(min-width:780px) {
+        width: 780px;
+        
+    }
+
+    // min-width-1200
+    @media screen and(min-width:1200px) {
+        width: 1200px;
+        
+    }
+
 }
 
-.section{
-    background-color: green;
-}

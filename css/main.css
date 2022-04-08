@@ -31,12 +31,25 @@ body {
 
 .container {
   padding: 0 15px;
-  width: 1200px;
   margin: 0 auto;
-  background-color: 1;
+  background-color: white;
 }
 
-.section {
-  background-color: green;
+@media screen and (min-width: 480px) {
+  .container {
+    width: 480px;
+  }
+}
+
+@media screen and (min-width: 780px) {
+  .container {
+    width: 780px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .container {
+    width: 1200px;
+  }
 }
 /*# sourceMappingURL=main.css.map */
